@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Desafio2 {
+public class Desafio2_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite a altura que deseja: (NO MÁXIMO 20) " );
